@@ -63,36 +63,41 @@
 ## Output:
 
 ### **Virtual Box:**
+![Screenshot 2025-04-06 213248](https://github.com/user-attachments/assets/9211c8e2-453c-42fa-af57-6812a84cdd7f)
 
-![](./images/VB.png)
+
 
 ---
 
 ### **Virtual Machine (Kali Linux)**
 
-![](./images/Kali.png)
+![Screenshot 2025-04-06 213606](https://github.com/user-attachments/assets/14e945b4-774c-4b1e-bdc9-bb9df1beb75b)
 
-![](./images/kali1.png)
 
 ---
 
 ### **Autopsy**
 
-![](./images/autopsy.png)
+![image](https://github.com/user-attachments/assets/40c6c092-ec75-4416-a5a6-2020375aa320)
+
 
 ---
 
 ### **Sleuth Kit**
 
-![](./images/s1.png)
+![Screenshot 2025-04-06 223107](https://github.com/user-attachments/assets/4dd47cb5-f623-4cbb-96ce-3a526404b514)
 
-![](./images/s2.png)
+![image](https://github.com/user-attachments/assets/45d6feb1-5997-4e50-b32d-0ce36939f7a0)
+
+
+
 
 ---
 
 ### **Creation of Virtual Hard Disk**
 
-![](./images/disk.png)
+![image](https://github.com/user-attachments/assets/92047b85-752a-4500-a47b-31aa30541d33)
+
 
 ---
 
